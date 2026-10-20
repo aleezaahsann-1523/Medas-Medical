@@ -1,0 +1,199 @@
+{
+  "timestamp": "2026-10-14T18:50:55.445Z",
+  "totalProductsMissingDescriptions": 32,
+  "missingDescriptionProducts": [
+    {
+      "id": 12804,
+      "name": "Toshiba PVT 375BT",
+      "slug": "toshiba-pvt-375bt",
+      "url": "https://sonotech.pk/product/toshiba-pvt-375bt/"
+    },
+    {
+      "id": 12801,
+      "name": "PVT 661VT",
+      "slug": "pvt-661vt",
+      "url": "https://sonotech.pk/product/pvt-661vt/"
+    },
+    {
+      "id": 12795,
+      "name": "PVM 366M",
+      "slug": "pvm-366m",
+      "url": "https://sonotech.pk/product/pvm-366m/"
+    },
+    {
+      "id": 12791,
+      "name": "PVM 651VT",
+      "slug": "pvm-651vt",
+      "url": "https://sonotech.pk/product/pvm-651vt/"
+    },
+    {
+      "id": 12787,
+      "name": "Mindray TVS DP Series",
+      "slug": "mindray-tvs-dp-series",
+      "url": "https://sonotech.pk/product/mindray-tvs-dp-series/"
+    },
+    {
+      "id": 12784,
+      "name": "Mindray Convex Probe DP 10-20-30-50",
+      "slug": "mindray-convex-probe-dp-10-20-30-50",
+      "url": "https://sonotech.pk/product/mindray-convex-probe-dp-10-20-30-50/"
+    },
+    {
+      "id": 12781,
+      "name": "Mindray TVS DP 10-20 R",
+      "slug": "mindray-tvs-dp-10-20-r",
+      "url": "https://sonotech.pk/product/mindray-tvs-dp-10-20-r/"
+    },
+    {
+      "id": 12778,
+      "name": "Linear Probe DP-10",
+      "slug": "linear-probe-dp-10",
+      "url": "https://sonotech.pk/product/linear-probe-dp-10/"
+    },
+    {
+      "id": 12774,
+      "name": "GE 3SRS",
+      "slug": "ge-3srs",
+      "url": "https://sonotech.pk/product/ge-3srs/"
+    },
+    {
+      "id": 12771,
+      "name": "GE 3S",
+      "slug": "ge-3s",
+      "url": "https://sonotech.pk/product/ge-3s/"
+    },
+    {
+      "id": 12768,
+      "name": "3S",
+      "slug": "3s",
+      "url": "https://sonotech.pk/product/3s/"
+    },
+    {
+      "id": 12765,
+      "name": "E8C",
+      "slug": "e8c",
+      "url": "https://sonotech.pk/product/e8c/"
+    },
+    {
+      "id": 12762,
+      "name": "E8C-RS",
+      "slug": "e8c-rs",
+      "url": "https://sonotech.pk/product/e8c-rs/"
+    },
+    {
+      "id": 12759,
+      "name": "4CRC",
+      "slug": "4crc",
+      "url": "https://sonotech.pk/product/4crc/"
+    },
+    {
+      "id": 12757,
+      "name": "4C",
+      "slug": "4c",
+      "url": "https://sonotech.pk/product/4c/"
+    },
+    {
+      "id": 12378,
+      "name": "12N",
+      "slug": "12n",
+      "url": "https://sonotech.pk/product/12n/"
+    },
+    {
+      "id": 12375,
+      "name": "12J",
+      "slug": "12j",
+      "url": "https://sonotech.pk/product/12j/"
+    },
+    {
+      "id": 12372,
+      "name": "12H",
+      "slug": "12h",
+      "url": "https://sonotech.pk/product/12h/"
+    },
+    {
+      "id": 12369,
+      "name": "10T",
+      "slug": "10t",
+      "url": "https://sonotech.pk/product/10t/"
+    },
+    {
+      "id": 12364,
+      "name": "8L",
+      "slug": "8l",
+      "url": "https://sonotech.pk/product/8l/"
+    },
+    {
+      "id": 12361,
+      "name": "5M",
+      "slug": "5m",
+      "url": "https://sonotech.pk/product/5m/"
+    },
+    {
+      "id": 12312,
+      "name": "D3i Plus",
+      "slug": "d3i-plus",
+      "url": "https://sonotech.pk/product/d3i-plus/"
+    },
+    {
+      "id": 12179,
+      "name": "168 Chemistry Analyzer",
+      "slug": "168-chemistry-analyzer",
+      "url": "https://sonotech.pk/product/168-chemistry-analyzer/"
+    },
+    {
+      "id": 12176,
+      "name": "H30 Hematology",
+      "slug": "h30-hematology",
+      "url": "https://sonotech.pk/product/h30-hematology/"
+    },
+    {
+      "id": 12169,
+      "name": "H50 Hematology",
+      "slug": "h50-hematology",
+      "url": "https://sonotech.pk/product/h50-hematology/"
+    },
+    {
+      "id": 11557,
+      "name": "LXW-C",
+      "slug": "lxw-c",
+      "url": "https://sonotech.pk/product/lxw-c/"
+    },
+    {
+      "id": 11555,
+      "name": "Muses Plus",
+      "slug": "muses-plus",
+      "url": "https://sonotech.pk/product/muses-plus/"
+    },
+    {
+      "id": 11541,
+      "name": "SNP 7000 Vital Sign",
+      "slug": "snp-7000-vital-sign",
+      "url": "https://sonotech.pk/product/snp-7000-vital-sign/"
+    },
+    {
+      "id": 11535,
+      "name": "SNP9000i",
+      "slug": "snp9000i",
+      "url": "https://sonotech.pk/product/snp9000i/"
+    },
+    {
+      "id": 11529,
+      "name": "SNP9000V",
+      "slug": "snp9000v",
+      "url": "https://sonotech.pk/product/snp9000v/"
+    },
+    {
+      "id": 11527,
+      "name": "SNP9000W",
+      "slug": "snp9000w",
+      "url": "https://sonotech.pk/product/snp9000w/"
+    },
+    {
+      "id": 9351,
+      "name": "V9",
+      "slug": "v9",
+      "url": "https://sonotech.pk/product/v9/"
+    }
+  ],
+  "note": "In the original SonoTech.pk WooCommerce database, certain probe accessories are listed with model numbers and high-resolution photos but with empty descriptions in the store CMS. These have been accurately documented without inventing fabricated text."
+}

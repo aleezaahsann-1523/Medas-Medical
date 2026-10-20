@@ -1,0 +1,6 @@
+{
+  "name": "Medas Medical Supplier - Ultrasound & Healthcare Equipment",
+  "description": "Leading distributor of human and veterinary ultrasound scanners, color dopplers, and diagnostic probes in Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,74 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    letter-spacing: -0.01em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+@keyframes marquee {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  display: flex;
+  width: max-content;
+  animation: marquee 28s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.25s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-slideUp {
+  animation: slideUp 0.22s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Clean blue-and-white homepage refresh */
+.home-redesign { overflow:hidden; }
+.hero-clean { background:#071329; }
+.hero-photo { position:absolute; inset:0; background-image:url('https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=2000&q=85'); background-size:cover; background-position:center; opacity:.48; }
+.hero-shade { position:absolute; inset:0; background:linear-gradient(90deg,rgba(4,15,35,.84) 0%,rgba(5,19,43,.65) 52%,rgba(5,19,43,.30) 100%); }
+.hero-feature { box-shadow:0 25px 70px rgba(0,0,0,.22); }
+.category-image { width:clamp(68px,8vw,108px); height:clamp(68px,8vw,108px); border-radius:9999px; background:#eff6ff; border:1px solid #dbeafe; padding:10px; display:flex; align-items:center; justify-content:center; overflow:hidden; transition:transform .2s,box-shadow .2s; }
+.category-image img { width:100%; height:100%; object-fit:contain; border-radius:9999px; }
+.category-circle:hover .category-image { transform:translateY(-4px); box-shadow:0 10px 25px rgba(37,99,235,.14); border-color:#93c5fd; }
+.faq-item[open] { border-color:#93c5fd; box-shadow:0 6px 20px rgba(15,23,42,.04); }
+.faq-item[open] .faq-chevron { transform:rotate(90deg); }
+.faq-chevron { transition:transform .2s; }
+.contact-cta { background:#071329; }
+.cta-bg { position:absolute; inset:0; background:linear-gradient(90deg,rgba(3,12,28,.92),rgba(10,40,87,.82)),url('https://images.unsplash.com/photo-1584982751601-97dcc096659c?auto=format&fit=crop&w=1800&q=80') center/cover; }
