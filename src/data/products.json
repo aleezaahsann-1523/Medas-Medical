@@ -719,7 +719,7 @@
   },
   {
     "id": 20009,
-    "name": "VOLTA VSONIC +12",
+    "name": "VOLTA VSONIC 12 plus",
     "slug": "volta-vsonic-plus12",
     "permalink": "/product/volta-vsonic-plus12/",
     "sku": "MEDAS-VOLTA-VSONIC-PLUS12",
@@ -760,7 +760,7 @@
       }
     ],
     "technicalData": {
-      "Model": "VOLTA VSONIC +12",
+      "Model": "VOLTA VSONIC 12 plus",
       "Category": "Clinical Systems",
       "Product Type": "Digital Diagnostic Ultrasound Machine",
       "Price": "PKR 345,000",
@@ -793,8 +793,8 @@
 "gallery": [
   {
     "id": 20009,
-    "src": "/images/categories/Volta vsonic +12.jpeg.jpeg",
-    "thumbnail": "/images/categories/Volta vsonic +12.jpeg.jpeg",
+    "src": "/images/categories/Volta vsonic +12.jpeg",
+    "thumbnail": "/images/categories/Volta vsonic +12.jpeg",
     "alt": "VOLTA VSONIC +12",
     "name": "VOLTA VSONIC +12"
   }
