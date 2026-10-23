@@ -1,0 +1,306 @@
+{
+  "timestamp": "2026-10-14T18:50:55.444Z",
+  "sourceWebsite": "https://sonotech.pk/",
+  "totalDiscoveredUrls": 202,
+  "discoveredProductUrlsFromSitemap": 138,
+  "discoveredCategoryUrlsFromSitemap": 48,
+  "discoveredPageUrlsFromSitemap": 16,
+  "totalUniqueProductsExtracted": 138,
+  "totalCategoriesExtracted": 48,
+  "totalImagesDiscovered": 373,
+  "productsWithKeyFeaturesOrBullets": 48,
+  "productsWithTechnicalSpecs": 0,
+  "productsWithDescription": 73,
+  "productsWithShortDescription": 57,
+  "productsWithImages": 138,
+  "allUniqueCategories": [
+    {
+      "id": 20,
+      "name": "Accessories",
+      "slug": "accessories",
+      "count": 7
+    },
+    {
+      "id": 89,
+      "name": "Black And White Ultrasound Machine",
+      "slug": "black-and-white-ultrasound-machine",
+      "count": 7
+    },
+    {
+      "id": 107,
+      "name": "Chinese Veterinary Ultrasound Machines",
+      "slug": "chinese-veterinary-ultrasound-machines",
+      "count": 2
+    },
+    {
+      "id": 76,
+      "name": "Electrocardiogram (ECG)",
+      "slug": "electrocardiogram-ecg",
+      "count": 5
+    },
+    {
+      "id": 85,
+      "name": "Estrous Detectors",
+      "slug": "estrous-detectors",
+      "count": 4
+    },
+    {
+      "id": 120,
+      "name": "Fetal Dopplers",
+      "slug": "fetal-dopplers",
+      "count": 4
+    },
+    {
+      "id": 102,
+      "name": "Fetal maternal monitors CTG",
+      "slug": "fetal-maternal-monitors-ctg",
+      "count": 3
+    },
+    {
+      "id": 131,
+      "name": "GE Ultrasound Probes",
+      "slug": "ge-ultrasound-probes",
+      "count": 8
+    },
+    {
+      "id": 109,
+      "name": "Handheld Veterinary Ultrasound Machines",
+      "slug": "handheld-veterinary-ultrasound-machines",
+      "count": 7
+    },
+    {
+      "id": 125,
+      "name": "Handheld Veterinary Ultrasound Machines",
+      "slug": "handheld-veterinary-ultrasound-machines-2",
+      "count": 5
+    },
+    {
+      "id": 132,
+      "name": "Honda Ultrasound Probes",
+      "slug": "honda-ultrasound-probes",
+      "count": 1
+    },
+    {
+      "id": 101,
+      "name": "Human Lab",
+      "slug": "human-lab",
+      "count": 1
+    },
+    {
+      "id": 71,
+      "name": "Human Medical Equipment",
+      "slug": "human-medical-equipment",
+      "count": 82
+    },
+    {
+      "id": 75,
+      "name": "Lab Daignistic equipment",
+      "slug": "lab-daignistic-equipment",
+      "count": 5
+    },
+    {
+      "id": 111,
+      "name": "M-Veterniary",
+      "slug": "m-veterniary",
+      "count": 6
+    },
+    {
+      "id": 87,
+      "name": "Mastitis Detectors",
+      "slug": "mastitis-detectors",
+      "count": 2
+    },
+    {
+      "id": 137,
+      "name": "Medical Stabilizer",
+      "slug": "medical-stabilizer",
+      "count": 1
+    },
+    {
+      "id": 121,
+      "name": "Medical Stablizer",
+      "slug": "medical-stablizer",
+      "count": 1
+    },
+    {
+      "id": 98,
+      "name": "Medical UPS system",
+      "slug": "medical-ups-sytem",
+      "count": 1
+    },
+    {
+      "id": 136,
+      "name": "Medical Ups Systems",
+      "slug": "medical-ups-systems",
+      "count": 1
+    },
+    {
+      "id": 133,
+      "name": "Mindray Ultrasound Probes",
+      "slug": "mindray-ultrasound-probes",
+      "count": 4
+    },
+    {
+      "id": 119,
+      "name": "Patient Monitors",
+      "slug": "patient-monitors",
+      "count": 8
+    },
+    {
+      "id": 96,
+      "name": "Point of Care",
+      "slug": "point-of-care",
+      "count": 20
+    },
+    {
+      "id": 108,
+      "name": "Poland Draminski Veterinary Ultrasound machines",
+      "slug": "poland-draminski-veterinary-ultrasound-machines",
+      "count": 5
+    },
+    {
+      "id": 90,
+      "name": "Portable Color Dopplers",
+      "slug": "portable-color-dopplers",
+      "count": 5
+    },
+    {
+      "id": 110,
+      "name": "Portable Veterinary Ultrasound Machines",
+      "slug": "portable-veterinary-ultrasound-machines",
+      "count": 7
+    },
+    {
+      "id": 86,
+      "name": "Pregnancy Detectors",
+      "slug": "pregnancy-detectors",
+      "count": 3
+    },
+    {
+      "id": 79,
+      "name": "Radiology Equipment",
+      "slug": "radiology-equipment",
+      "count": 6
+    },
+    {
+      "id": 122,
+      "name": "Thermal Printers",
+      "slug": "thermal-printers",
+      "count": 1
+    },
+    {
+      "id": 134,
+      "name": "Toshiba Ultrasound Probes",
+      "slug": "toshiba-ultrasound-probes",
+      "count": 5
+    },
+    {
+      "id": 91,
+      "name": "Trolly Mounted Color Dopplers",
+      "slug": "trolly-mounted-color-dopplers",
+      "count": 3
+    },
+    {
+      "id": 123,
+      "name": "Ultrasound Carring Bags",
+      "slug": "ultrasound-carring-bags",
+      "count": 1
+    },
+    {
+      "id": 135,
+      "name": "Ultrasound Carrying Bags",
+      "slug": "ultrasound-carrying-bags",
+      "count": 1
+    },
+    {
+      "id": 103,
+      "name": "Ultrasound new compatible probes",
+      "slug": "ultrasound-new-compatible-probes",
+      "count": 19
+    },
+    {
+      "id": 97,
+      "name": "Ultrasound Probes",
+      "slug": "ultrasound-probes",
+      "count": 19
+    },
+    {
+      "id": 73,
+      "name": "Ultrasound Scanners",
+      "slug": "ultrasound-scanners",
+      "count": 20
+    },
+    {
+      "id": 99,
+      "name": "Ultrasound Thermal Paper",
+      "slug": "ultrasound-thermal-paper",
+      "count": 1
+    },
+    {
+      "id": 100,
+      "name": "Ultrasound Transmission gel",
+      "slug": "ultrasound-transmission-gel",
+      "count": 1
+    },
+    {
+      "id": 74,
+      "name": "USB And Wifi Ultrasound",
+      "slug": "usb-and-wifi-ultrasound",
+      "count": 12
+    },
+    {
+      "id": 116,
+      "name": "Usb Probes",
+      "slug": "usb-probes",
+      "count": 1
+    },
+    {
+      "id": 126,
+      "name": "Usb Veterinary Ultrasound Probes",
+      "slug": "usb-veterinary-ultrasound-probes",
+      "count": 3
+    },
+    {
+      "id": 80,
+      "name": "Vet Ultrasound Scanners",
+      "slug": "vet-ultrasound-scanners",
+      "count": 15
+    },
+    {
+      "id": 72,
+      "name": "Veterinary Medical Equipment",
+      "slug": "vterinary-medical-equipment",
+      "count": 54
+    },
+    {
+      "id": 127,
+      "name": "Veterinary Patient Monitor",
+      "slug": "veterinary-patient-monitor",
+      "count": 5
+    },
+    {
+      "id": 105,
+      "name": "Veterinary Ultrasound",
+      "slug": "veterinary-ultrasound",
+      "count": 22
+    },
+    {
+      "id": 106,
+      "name": "Veterinay Lab Equipment",
+      "slug": "veterinay-lab-equipment",
+      "count": 3
+    },
+    {
+      "id": 117,
+      "name": "Wireless D3 Series",
+      "slug": "wireless-d3-series",
+      "count": 4
+    },
+    {
+      "id": 118,
+      "name": "Wireless Youkey Series",
+      "slug": "wireless-youkey-series",
+      "count": 2
+    }
+  ]
+}

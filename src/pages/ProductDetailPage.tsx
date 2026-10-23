@@ -210,7 +210,7 @@ export const ProductDetailPage: React.FC = () => {
               </span>
               <div className="flex items-baseline gap-3">
                 <span className="text-3xl font-black text-slate-900">
-                  {product.price > 0 ? `₨ ${product.price.toLocaleString()}` : (product.priceHtml || 'Contact for Price')}
+                  Contact for price
                 </span>
               </div>
               <p className="text-xs text-slate-500 mt-1">

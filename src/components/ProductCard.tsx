@@ -17,8 +17,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
     : (!imgError && product.featuredImage?.src ? product.featuredImage.src : 'https://sonotech.pk/wp-content/uploads/2023/06/Our-trendy-categoriy-Humen-ultrasound-scanner.jpg');
 
   const formatPrice = (product: Product) => {
-    if (!product.price || product.price === 0) return product.priceHtml || 'Contact for Price';
-    return `₨ ${product.price.toLocaleString()}`;
+    return 'Contact for price';
   };
 
   const directOrderWhatsApp = encodeURIComponent(

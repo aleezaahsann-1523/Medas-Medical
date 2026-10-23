@@ -1,0 +1,1483 @@
+{
+  "totalProductsWithImages": 138,
+  "totalImages": 373,
+  "products": [
+    {
+      "productId": 12804,
+      "productName": "Toshiba PVT 375BT",
+      "slug": "toshiba-pvt-375bt",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/07/Toshiba-PVT-375BT.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/07/Toshiba-PVT-375BT.jpg"
+      ]
+    },
+    {
+      "productId": 12801,
+      "productName": "PVT 661VT",
+      "slug": "pvt-661vt",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/07/PVT-661VT.jpeg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/07/PVT-661VT.jpeg"
+      ]
+    },
+    {
+      "productId": 12795,
+      "productName": "PVM 366M",
+      "slug": "pvm-366m",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/07/PVM-366M-1.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/07/PVM-366M-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/07/PVM-366M-4.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/07/PVM-366M-3.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/07/PVM-366M-2.jpg"
+      ]
+    },
+    {
+      "productId": 12791,
+      "productName": "PVM 651VT",
+      "slug": "pvm-651vt",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/07/PVM-651VT.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/07/PVM-651VT.jpg"
+      ]
+    },
+    {
+      "productId": 12787,
+      "productName": "Mindray TVS DP Series",
+      "slug": "mindray-tvs-dp-series",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/07/Mindray-TVS-DP-series.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/07/Mindray-TVS-DP-series.png"
+      ]
+    },
+    {
+      "productId": 12784,
+      "productName": "Mindray Convex Probe DP 10-20-30-50",
+      "slug": "mindray-convex-probe-dp-10-20-30-50",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/07/Mindray-Convex-probe-of-DP-10-20-30-50.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/07/Mindray-Convex-probe-of-DP-10-20-30-50.png"
+      ]
+    },
+    {
+      "productId": 12781,
+      "productName": "Mindray TVS DP 10-20 R",
+      "slug": "mindray-tvs-dp-10-20-r",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/07/Midray-TVS-DP-10-20-R.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/07/Midray-TVS-DP-10-20-R.jpg"
+      ]
+    },
+    {
+      "productId": 12778,
+      "productName": "Linear Probe DP-10",
+      "slug": "linear-probe-dp-10",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/07/Linear-Probe-DP-10.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/07/Linear-Probe-DP-10.jpg"
+      ]
+    },
+    {
+      "productId": 12774,
+      "productName": "GE 3SRS",
+      "slug": "ge-3srs",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/07/GE-3SRS.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/07/GE-3SRS.jpg"
+      ]
+    },
+    {
+      "productId": 12771,
+      "productName": "GE 3S",
+      "slug": "ge-3s",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/07/GE-3S.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/07/GE-3S.jpg"
+      ]
+    },
+    {
+      "productId": 12768,
+      "productName": "3S",
+      "slug": "3s",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/3S.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/3S.jpg"
+      ]
+    },
+    {
+      "productId": 12765,
+      "productName": "E8C",
+      "slug": "e8c",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/07/E8C.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/07/E8C.jpg"
+      ]
+    },
+    {
+      "productId": 12762,
+      "productName": "E8C-RS",
+      "slug": "e8c-rs",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/07/E8C-RS.webp",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/07/E8C-RS.webp"
+      ]
+    },
+    {
+      "productId": 12759,
+      "productName": "4CRC",
+      "slug": "4crc",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/07/4CRC.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/07/4CRC.jpg"
+      ]
+    },
+    {
+      "productId": 12757,
+      "productName": "4C",
+      "slug": "4c",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/4C.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/4C.jpg"
+      ]
+    },
+    {
+      "productId": 12378,
+      "productName": "12N",
+      "slug": "12n",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/12N.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/12N.jpg"
+      ]
+    },
+    {
+      "productId": 12375,
+      "productName": "12J",
+      "slug": "12j",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/12J.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/12J.jpg"
+      ]
+    },
+    {
+      "productId": 12372,
+      "productName": "12H",
+      "slug": "12h",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/12H.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/12H.jpg"
+      ]
+    },
+    {
+      "productId": 12369,
+      "productName": "10T",
+      "slug": "10t",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/10T.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/10T.jpg"
+      ]
+    },
+    {
+      "productId": 12364,
+      "productName": "8L",
+      "slug": "8l",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/8L.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/8L.jpg"
+      ]
+    },
+    {
+      "productId": 12361,
+      "productName": "5M",
+      "slug": "5m",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/5M.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/5M.jpg"
+      ]
+    },
+    {
+      "productId": 12314,
+      "productName": "D3L",
+      "slug": "d3l",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/D3L.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/D3L.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/D3L-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/D3L-2.jpg"
+      ]
+    },
+    {
+      "productId": 12312,
+      "productName": "D3i Plus",
+      "slug": "d3i-plus",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/D3i.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/D3i.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/D3i-3.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/D3I-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/D3i-2.jpg"
+      ]
+    },
+    {
+      "productId": 12310,
+      "productName": "D3i Dual Heads",
+      "slug": "d3i-dual-heads",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/D3i-Dual-Head.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/D3i-Dual-Head.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/D3i-Dual-Head-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/D3i-Dual-Head-2.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/D3i-Dual-Head-3.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/D3i-Dual-Head-5.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/D3i-Dual-Head-4.jpg"
+      ]
+    },
+    {
+      "productId": 12304,
+      "productName": "D3 BW",
+      "slug": "d3-bw",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/D3-BW.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/D3-BW.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/D3-BW-2.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/D3-BW-1.jpg"
+      ]
+    },
+    {
+      "productId": 12179,
+      "productName": "168 Chemistry Analyzer",
+      "slug": "168-chemistry-analyzer",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/168-Chemistry-Analyzer.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/168-Chemistry-Analyzer.jpg"
+      ]
+    },
+    {
+      "productId": 12176,
+      "productName": "H30 Hematology",
+      "slug": "h30-hematology",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/H30-Hematology.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/H30-Hematology.png"
+      ]
+    },
+    {
+      "productId": 12169,
+      "productName": "H50 Hematology",
+      "slug": "h50-hematology",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/H50-Hematology-1.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/H50-Hematology-1.png"
+      ]
+    },
+    {
+      "productId": 12086,
+      "productName": "FarmScan F5",
+      "slug": "farmscan-f5",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/Farmscan-F5.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/Farmscan-F5.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Nyro10.jpeg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Farmscan-F5-2.jpg"
+      ]
+    },
+    {
+      "productId": 12084,
+      "productName": "S9",
+      "slug": "s9",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/S9.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/S9.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/S9-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/S9-2.jpg"
+      ]
+    },
+    {
+      "productId": 12046,
+      "productName": "4 vet slim poland",
+      "slug": "4-vet-slim-poland",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/ultrasound-scanner-4vet-slim-modern-scanner-for-small-compan.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/ultrasound-scanner-4vet-slim-modern-scanner-for-small-compan.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/4vet-slim-super-portable-ultrasound-scanner-practical-ha.jpg"
+      ]
+    },
+    {
+      "productId": 12044,
+      "productName": "i scan mini poland",
+      "slug": "i-scan-mini-poland",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Mini-3-scaled.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Mini-3-scaled.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Mini-4.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Mini-2-1.jpg"
+      ]
+    },
+    {
+      "productId": 12042,
+      "productName": "iScan 2 multi",
+      "slug": "iscan-2-multi",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Multi-8.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Multi-8.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Multi-2.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/draminski-iscan-2-multi-ultrasound-scanner-for-many-appli.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Multi-1.jpg"
+      ]
+    },
+    {
+      "productId": 12040,
+      "productName": "V1",
+      "slug": "v1",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/V1.jpeg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/V1.jpeg"
+      ]
+    },
+    {
+      "productId": 12037,
+      "productName": "V8",
+      "slug": "v8",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/V8.jpeg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/V8.jpeg"
+      ]
+    },
+    {
+      "productId": 12007,
+      "productName": "D8 Vet Notebook ultrasound machine",
+      "slug": "d8-vet-notebook-ultrasound-machine",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/D8.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/D8.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Nyro10.jpeg"
+      ]
+    },
+    {
+      "productId": 12005,
+      "productName": "G20 VET",
+      "slug": "g20-vet-2",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/G20vet-with-Tranceducers-1-1.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/G20vet-with-Tranceducers-1-1.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/G20-1-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Nyro10.jpeg"
+      ]
+    },
+    {
+      "productId": 12003,
+      "productName": "G30 VET",
+      "slug": "g30-vet",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/EMP-G30-2-copy-2.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/EMP-G30-2-copy-2.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-G30-Color-doppler-Highly-professional-Ultrasound-machine-copy.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Nyro10.jpeg"
+      ]
+    },
+    {
+      "productId": 12001,
+      "productName": "N2",
+      "slug": "n2-2",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/N2.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/N2.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-N2-Highly-professional-Ultrasound-machine-copy.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Nyro10.jpeg"
+      ]
+    },
+    {
+      "productId": 11999,
+      "productName": "N5",
+      "slug": "n5-2",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/EMP-N5-p-4-copy-1.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/EMP-N5-p-4-copy-1.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/EMP-N5-p-3-copy-1.png",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Nyro10.jpeg"
+      ]
+    },
+    {
+      "productId": 11996,
+      "productName": "N50",
+      "slug": "n50-2",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/N50.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/N50.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Nyro10.jpeg"
+      ]
+    },
+    {
+      "productId": 11994,
+      "productName": "Nyro 10",
+      "slug": "nyro-10-2",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/Nyro-10-A-3-copy-1.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/Nyro-10-A-3-copy-1.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/Nyro-10-A-2-copy-1.png",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Nyro10.jpeg"
+      ]
+    },
+    {
+      "productId": 11572,
+      "productName": "Ultrasound Carring Bags",
+      "slug": "ultrasound-carring-bags",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/Ultrasound-Carring-Bags.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/Ultrasound-Carring-Bags.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Ultrasound-Carring-Bags-1.jpg"
+      ]
+    },
+    {
+      "productId": 11570,
+      "productName": "Thermal Printers",
+      "slug": "thermal-printers",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/Thermal-Printers.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/Thermal-Printers.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Thermal-Printers-3.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Thermal-Printers-2.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Thermal-Printers-1.jpg"
+      ]
+    },
+    {
+      "productId": 11568,
+      "productName": "Medical Stablizer",
+      "slug": "medical-stablizer",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/Medical-Stablizer.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/Medical-Stablizer.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Medical-Stablizer-1.jpg"
+      ]
+    },
+    {
+      "productId": 11566,
+      "productName": "Apollo Pro",
+      "slug": "apollo-pro",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/Apollo-Pro.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/Apollo-Pro.png"
+      ]
+    },
+    {
+      "productId": 11564,
+      "productName": "Athena Pro",
+      "slug": "athena-pro",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/Athena-Pro.jpeg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/Athena-Pro.jpeg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Athena-Pro-1.jpeg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Athena-Pro-2.jpeg"
+      ]
+    },
+    {
+      "productId": 11562,
+      "productName": "DR 2000 Mate",
+      "slug": "dr-2000-mate",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/DR-2000-Mate.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/DR-2000-Mate.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/DR-2000-Mate-1.jpg"
+      ]
+    },
+    {
+      "productId": 11559,
+      "productName": "Luna",
+      "slug": "luna",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/Luna-2.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/Luna-2.png",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Luna-3.png",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Luna-4.png"
+      ]
+    },
+    {
+      "productId": 11557,
+      "productName": "LXW-C",
+      "slug": "lxw-c",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/LXW-C.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/LXW-C.png",
+        "https://sonotech.pk/wp-content/uploads/2023/06/LXW-C-1.png"
+      ]
+    },
+    {
+      "productId": 11555,
+      "productName": "Muses Plus",
+      "slug": "muses-plus",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/Muses-Plus.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/Muses-Plus.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Muses-Plus-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Muses-Plus-3.jpg"
+      ]
+    },
+    {
+      "productId": 11553,
+      "productName": "E1200 Plus",
+      "slug": "e1200-plus",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/E1200-2.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/E1200-2.jpg"
+      ]
+    },
+    {
+      "productId": 11551,
+      "productName": "E1200",
+      "slug": "e1200",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/E1200-2.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/E1200-2.jpg"
+      ]
+    },
+    {
+      "productId": 11549,
+      "productName": "FD88",
+      "slug": "fd88",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/FD88.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/FD88.png"
+      ]
+    },
+    {
+      "productId": 11547,
+      "productName": "iFM-10B",
+      "slug": "ifm-10b",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/iFM-10B.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/iFM-10B.png",
+        "https://sonotech.pk/wp-content/uploads/2023/06/fetal-dopplers-iFM-10B.jpg"
+      ]
+    },
+    {
+      "productId": 11545,
+      "productName": "L6H",
+      "slug": "l6h",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/L6H.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/L6H.png",
+        "https://sonotech.pk/wp-content/uploads/2023/06/L6H-Fetal-Doppler.png"
+      ]
+    },
+    {
+      "productId": 11543,
+      "productName": "L6S",
+      "slug": "l6s",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/fetal-dopplers-LHS.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/fetal-dopplers-LHS.png",
+        "https://sonotech.pk/wp-content/uploads/2023/06/fetal-dopplers-LHS-1.png"
+      ]
+    },
+    {
+      "productId": 11541,
+      "productName": "SNP 7000 Vital Sign",
+      "slug": "snp-7000-vital-sign",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/SNP-7000-Vital-sign-Monitor-2.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP-7000-Vital-sign-Monitor-2.jpg"
+      ]
+    },
+    {
+      "productId": 11539,
+      "productName": "SNP9000E",
+      "slug": "snp9000e",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000E.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000E.png",
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000E-1.png",
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000E-2.png",
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000E-3.png",
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000E-4.png",
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000E-5.png"
+      ]
+    },
+    {
+      "productId": 11537,
+      "productName": "SNP9000H",
+      "slug": "snp9000h",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000H.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000H.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000H-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000H-2.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000H-3.jpg"
+      ]
+    },
+    {
+      "productId": 11535,
+      "productName": "SNP9000i",
+      "slug": "snp9000i",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000i.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000i.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000i-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000i-2.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000i-3.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000i-4.jpg"
+      ]
+    },
+    {
+      "productId": 11533,
+      "productName": "SNP9000J",
+      "slug": "snp9000j",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000J-2.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000J-2.jpg"
+      ]
+    },
+    {
+      "productId": 11531,
+      "productName": "SNP9000N",
+      "slug": "snp9000n",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000N.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000N.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000N-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000N-2.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000N-3.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000N-4.jpg"
+      ]
+    },
+    {
+      "productId": 11529,
+      "productName": "SNP9000V",
+      "slug": "snp9000v",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000V.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000V.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000V-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000V-2.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000V-3.jpg"
+      ]
+    },
+    {
+      "productId": 11527,
+      "productName": "SNP9000W",
+      "slug": "snp9000w",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000W-1.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/SNP9000W-1.jpg"
+      ]
+    },
+    {
+      "productId": 11488,
+      "productName": "CA 6030",
+      "slug": "ca-6030",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/human-lab-CA-6030.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/human-lab-CA-6030.jpg"
+      ]
+    },
+    {
+      "productId": 11481,
+      "productName": "Urine analyzer",
+      "slug": "humen-lab-urine-analyzer",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/Urine-analyzer.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/Urine-analyzer.jpg"
+      ]
+    },
+    {
+      "productId": 11474,
+      "productName": "EMP 3000",
+      "slug": "humen-lab-emp-3000",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/EMF-3000.jpeg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/EMF-3000.jpeg"
+      ]
+    },
+    {
+      "productId": 11469,
+      "productName": "EMP 3000 Pro",
+      "slug": "human-lab-3000-pro",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/Human-Lab-3000-Pro.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/Human-Lab-3000-Pro.jpg"
+      ]
+    },
+    {
+      "productId": 11402,
+      "productName": "E60",
+      "slug": "e60",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/E60.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/E60.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/E60-1.jpg"
+      ]
+    },
+    {
+      "productId": 11397,
+      "productName": "Z3",
+      "slug": "z3",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/Z3.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/Z3.png",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Z3-4.png",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Z3-2.png",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Z3-1.png",
+        "https://sonotech.pk/wp-content/uploads/2023/06/5804048.png"
+      ]
+    },
+    {
+      "productId": 11391,
+      "productName": "Q7",
+      "slug": "q7",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/Q7.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/Q7.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Q7-2.jpg"
+      ]
+    },
+    {
+      "productId": 11385,
+      "productName": "D8",
+      "slug": "d8-wireless-ultrasound-scanner",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/08/d8.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/08/d8.png",
+        "https://sonotech.pk/wp-content/uploads/2023/06/D8-2.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/D8.jpg"
+      ]
+    },
+    {
+      "productId": 10043,
+      "productName": "PT-Vet Iscan Multi",
+      "slug": "pt-vet-iscan-multi",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Multi-1.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Multi-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Mini-3-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Mini-2-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Multi-2.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Multi-7.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Multi-8.jpg"
+      ]
+    },
+    {
+      "productId": 10036,
+      "productName": "VET EMP V10 Highly professional Ultrasound machine",
+      "slug": "vet-emp-v10-highly-professional-ultrasound-machine",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-V10-Highly-professional-Ultrasound-machine-copy.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-V10-Highly-professional-Ultrasound-machine-copy.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-V10-Highly-professional-Ultrasound-machine.jpg"
+      ]
+    },
+    {
+      "productId": 10035,
+      "productName": "VET EMP V9 highly professional Ultrasound machine",
+      "slug": "vet-emp-v9-highly-professional-ultrasound-machine",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-V9-highly-professional-Ultrasound-machine-copy.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-V9-highly-professional-Ultrasound-machine-copy.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-V9-highly-professional-Ultrasound-machine-1.jpg"
+      ]
+    },
+    {
+      "productId": 10025,
+      "productName": "VET EMP N5",
+      "slug": "vet-emp-n5",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-N5-Highly-professional-Ultrasound-machine-copy.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-N5-Highly-professional-Ultrasound-machine-copy.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-N5-Highly-professional-Ultrasound-machine-1.jpg"
+      ]
+    },
+    {
+      "productId": 10024,
+      "productName": "Vet EMP V6 Handheal ultrasound machine",
+      "slug": "vet-emp-v6-handheal-ultrasound-machine",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/Vet-EMP-V6-Handheal-ultrasound-machine-f-pets-copy.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/Vet-EMP-V6-Handheal-ultrasound-machine-f-pets-copy.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/Vet-EMP-V6-Handheal-ultrasound-machine-f-pets-1.jpg"
+      ]
+    },
+    {
+      "productId": 10023,
+      "productName": "VET EMP N2",
+      "slug": "vet-emp-n2",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-N2-Highly-professional-Ultrasound-machine-copy.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-N2-Highly-professional-Ultrasound-machine-copy.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-N2-Highly-professional-Ultrasound-machine-1.jpg"
+      ]
+    },
+    {
+      "productId": 10017,
+      "productName": "VET EMP H30",
+      "slug": "vet-emp-h30-2",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-H30-copy.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-H30-copy.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-H30-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-H50V-1.jpg"
+      ]
+    },
+    {
+      "productId": 10013,
+      "productName": "VET EMP G76",
+      "slug": "vet-emp-g76",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-G76-copy.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-G76-copy.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-G76.jpg"
+      ]
+    },
+    {
+      "productId": 10008,
+      "productName": "VET EMP G70 Color doppler",
+      "slug": "vet-emp-g70-color-doppler",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-G70-Color-doppler-Highly-professional-Ultrasound-machine-copy.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-G70-Color-doppler-Highly-professional-Ultrasound-machine-copy.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-G70-Color-doppler-Highly-professional-Ultrasound-machine.jpg"
+      ]
+    },
+    {
+      "productId": 10003,
+      "productName": "VET EMP G30 Color doppler",
+      "slug": "vet-emp-g30-color-doppler",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-G30-Color-doppler-Highly-professional-Ultrasound-machine-copy.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-G30-Color-doppler-Highly-professional-Ultrasound-machine-copy.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-G30-Color-doppler-Highly-professional-Ultrasound-machine-1.jpg"
+      ]
+    },
+    {
+      "productId": 9999,
+      "productName": "VET EMP G20 Color doppler",
+      "slug": "vet-emp-g20-color-doppler",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-G20-Color-doppler-Highly-professional-Ultrasound-machine-copy.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-G20-Color-doppler-Highly-professional-Ultrasound-machine-copy.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-G20-Color-doppler-Highly-professional-Ultrasound-machine-1.jpg"
+      ]
+    },
+    {
+      "productId": 9995,
+      "productName": "VET EMP 168 Chemistry Analyzer",
+      "slug": "vet-emp-168-chemistry-analyzer-2",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-168-Chemistry-Analyzer-copy.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-168-Chemistry-Analyzer-copy.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-168-Chemistry-Analyzer-1.jpg"
+      ]
+    },
+    {
+      "productId": 9990,
+      "productName": "VET EMP 7 Cardiac Color Doppler",
+      "slug": "vet-emp-7-cardiac-color-doppler",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-7-Cardiac-Color-Doppler-Highly-professional-Ultrasound-machine-copy.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-7-Cardiac-Color-Doppler-Highly-professional-Ultrasound-machine-copy.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/unnamed-file.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-7-Cardiac-Color-Doppler-Highly-professional-Ultrasound-machine-1.jpg"
+      ]
+    },
+    {
+      "productId": 9986,
+      "productName": "G20 vet",
+      "slug": "g20-vet",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/G20vet-with-Tranceducers-1-1.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/G20vet-with-Tranceducers-1-1.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/G20-vet-1.png"
+      ]
+    },
+    {
+      "productId": 9980,
+      "productName": "G20vet Transducers",
+      "slug": "g20vet-transducers",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/35C50JA-Convex-Probe.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/35C50JA-Convex-Probe.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/35C50JA-Convex-Probe.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/55L60G-Rectal-Linear-Probe.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/65C15JA-High-Frequency-Micro-convex-Probe-.png"
+      ]
+    },
+    {
+      "productId": 9434,
+      "productName": "Ultrasound Scanner iScan 2 Multi",
+      "slug": "ultrasound-scanner-iscan-2-multi",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/draminski-iscan-2-multi-ultrasound-scanner-for-many-appli.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/draminski-iscan-2-multi-ultrasound-scanner-for-many-appli.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/draminski-iscan2-multi-veterinary-ultrasound-scanner-for-.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/draminski-iscan-2-multi-portable-ultrasound-scanner-with-.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/draminski-iscan2-multi_ultrasound-scanner-dedicated-to-bovin.jpg"
+      ]
+    },
+    {
+      "productId": 9433,
+      "productName": "Ultrasound Scanner iScan 2",
+      "slug": "ultrasound-scanner-iscan-2",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/us-iscan2-machine-reproduction-diagnostics-cattle-and-horses.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/us-iscan2-machine-reproduction-diagnostics-cattle-and-horses.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/us-iscan2-machine-reproduction-diagnostics-cattle-and-hor.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/iscan-2-cleaning.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/iscan_2-scaled.jpg"
+      ]
+    },
+    {
+      "productId": 9432,
+      "productName": "Ultrasound Scanner Animal Profi 2",
+      "slug": "ultrasound-scanner-animal-profi-2",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/portable-ultrasound-scanner-for-small-and-large-animal-e.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/portable-ultrasound-scanner-for-small-and-large-animal-e.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/ultrasound-scanner-with-changeable-mechanical-probe.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/small-handheld-ultrasound-scanner-for-field-work.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/scanner-powered-by-efficient-batteries.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/robust-transport-case-for-ultrasound-scanner.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/portable-ultrasound-scanner-for-bovine-sheep-swine-and-goat-exa.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/ultrasound-scanner-4vet-slim-modern-scanner-for-small-compan.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/abdominal-mechanical-probe-for-pigs-examination.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/aluminium-scanner-housing.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/mechanical-rectal-probe-for-bovine-examination.jpg"
+      ]
+    },
+    {
+      "productId": 9431,
+      "productName": "Ultrasound Scanner 4 Vet Slim",
+      "slug": "ultrasound-scanner-4-vet-slim",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/ultrasound-scanner-4vet-slim-modern-scanner-for-small-compan.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/ultrasound-scanner-4vet-slim-modern-scanner-for-small-compan.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/4vet-slim-super-portable-ultrasound-scanner-practical-ha.jpg"
+      ]
+    },
+    {
+      "productId": 9424,
+      "productName": "Ultrasound iscan Mini",
+      "slug": "ultrasound-iscan-mini",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Mini-2.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Mini-2.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Mini-3-scaled.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Mini-4.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-Iscan-Mini-1.jpg"
+      ]
+    },
+    {
+      "productId": 9354,
+      "productName": "Z35",
+      "slug": "z35",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/06/Z35.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/06/Z35.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/06/Z35-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/IMG_7680.jpg"
+      ]
+    },
+    {
+      "productId": 9352,
+      "productName": "V10",
+      "slug": "v10",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/V10-3.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/V10-3.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/V10-4.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/V10-2.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/V10-1.png"
+      ]
+    },
+    {
+      "productId": 9351,
+      "productName": "V9",
+      "slug": "v9",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/V9.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/V9.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-V9-4.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/PT-Vet-V9-3.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/VET-EMP-V9-highly-professional-Ultrasound-machine.jpg"
+      ]
+    },
+    {
+      "productId": 9310,
+      "productName": "DRAMINSKI Pregnancy Detector For Sheep And Goats",
+      "slug": "draminski-pregnancy-detector-for-sheep-and-goats",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/draminski-ultrasound-pregnancy-tester-in-goat-sheep.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/draminski-ultrasound-pregnancy-tester-in-goat-sheep.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/mg_6991.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/mg_7004.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/mg_7015.jpg"
+      ]
+    },
+    {
+      "productId": 9309,
+      "productName": "DRAMINSKI Pregnancy Detector For Pigs",
+      "slug": "draminski-pregnancy-detector-for-pigs",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/early-pregnancy-detector-in-pig-draminski.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/early-pregnancy-detector-in-pig-draminski.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/draminski-reliable-pregnancy-detector-in-pig.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/draminski-ultrasound-pregnancy-tester-in-sows.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/pd_pig_test_1.jpg"
+      ]
+    },
+    {
+      "productId": 9308,
+      "productName": "DRAMINSKI Pregnancy Detector For Dogs",
+      "slug": "draminski-pregnancy-detector-for-dogs",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/pdd_set.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/pdd_set.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/draminski-ultrasound-pregnancy-tester-for-bitches.jpg"
+      ]
+    },
+    {
+      "productId": 9294,
+      "productName": "Mastitis Detector MD4X4Q",
+      "slug": "mastitis-detector-md4x4q",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/md4x4-zestaw.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/md4x4-zestaw.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/md4x4-set.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/md4x4-10.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/mast2-4x4q-2eng.jpg"
+      ]
+    },
+    {
+      "productId": 9293,
+      "productName": "Mastitis Detector MD4Q",
+      "slug": "mastitis-detector-md4q",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/draminski-md2-wykrywacz-mastitis-4q-main-1.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/draminski-md2-wykrywacz-mastitis-4q-main-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/md1-set-en.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/md1-06-edit.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/mast2-4q_2pl_tryb_pracy_en-scaled.jpg"
+      ]
+    },
+    {
+      "productId": 9270,
+      "productName": "DRAMINSKI EDS 2 Estrous Detector For Sheep And Goats",
+      "slug": "draminski-eds-2-estrous-detector-for-sheep-and-goats",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/detection-silent-estrous-problems-with-insemination-sheeps-goats-reproduction.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/detection-silent-estrous-problems-with-insemination-sheeps-goats-reproduction.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/how-to-detect-estrus-in-sheeps-goats.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/draminski-detector-oestrus-eds2-for-sheeps-goats.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/best-time-insemination-the-sheeps-goats-with-invisible-estrus.jpg"
+      ]
+    },
+    {
+      "productId": 9269,
+      "productName": "DRAMINSKI EDP 2 Estrous Detector For Pigs",
+      "slug": "draminski-edp-2-estrous-detector-for-pigs",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/draminski-detector-oestrus-edp2-for-pigs-1.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/draminski-detector-oestrus-edp2-for-pigs-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/best-time-insemination-the-pigs-with-invisible-estrus.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/detection-silent-estrous-problems-with-inseminating-sow-reproduction.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/draminski-detector-oestrus-edp2-for-pigs.jpg"
+      ]
+    },
+    {
+      "productId": 9268,
+      "productName": "DRAMINSKI EDC 2 Estrous Detector for Cows and Mares",
+      "slug": "draminski-edc-2-estrous-detector-for-cows-and-mares",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/draminski-detector-oestrus-edc2-for-cows-and-mares-1.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/draminski-detector-oestrus-edc2-for-cows-and-mares-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/best-time-insemination-the-cows-with-invisible-estrus.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/draminski-pointer-estrus-in-mare-when-inseminating.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/how-to-detect-estrus-in-cows-mares.jpg"
+      ]
+    },
+    {
+      "productId": 9267,
+      "productName": "DRAMIŃSKI DOD2 Dog Ovulation Detector",
+      "slug": "draminski-dod2-dog-ovulation-detector",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/draminski-silent-oestrous-detector-kit.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/draminski-silent-oestrous-detector-kit.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/recommended-dog-ovulation-detector-draminski-dod2.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/manufactured-in-poland-effective-ovulation-detector-for-dogs.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/new-dog-ovulation-detector-draminski-dod2.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/draminski-water-resistant-bitch-estrous-detector.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/draminski-dog-ovulation-detector-data-transmission-application.jpg"
+      ]
+    },
+    {
+      "productId": 9165,
+      "productName": "Youkey D8C and B Wifi Ultrasound probes",
+      "slug": "youkey-d8c-and-b-wifi-ultrasound-probes",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/Youkey-D8C-and-B-Wifi-Ultrasound-probes_001-scaled-e1683957585606.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/Youkey-D8C-and-B-Wifi-Ultrasound-probes_001-scaled-e1683957585606.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/5964087.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/Youkey-D8C-and-B-Wifi-Ultrasound-probes_001-copy.jpg"
+      ]
+    },
+    {
+      "productId": 9164,
+      "productName": "D3L Color Doppler",
+      "slug": "d3l-color-doppler",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/1-1ZQ21S011421-1.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/1-1ZQ21S011421-1.jpg"
+      ]
+    },
+    {
+      "productId": 9163,
+      "productName": "D3L Black And White",
+      "slug": "d3l-black-and-white",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/1-1ZQ21S011421.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/1-1ZQ21S011421.jpg"
+      ]
+    },
+    {
+      "productId": 9160,
+      "productName": "D3i Dual Head Ultrasound Probe",
+      "slug": "d3i-dual-head-ultrasound-probe",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/71MqpdHe5uL._AC_SL1500_.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/71MqpdHe5uL._AC_SL1500_.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/1-1ZQ314112V43.jpg"
+      ]
+    },
+    {
+      "productId": 9159,
+      "productName": "D3",
+      "slug": "d3",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/1-1ZQ2163535646.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/1-1ZQ2163535646.jpg"
+      ]
+    },
+    {
+      "productId": 9108,
+      "productName": "Toshiba 366 JV",
+      "slug": "toshiba-366-jv",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/5a2b295d-889a-4ec3-a16c-ab421a6b7146-e1683958219495.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/5a2b295d-889a-4ec3-a16c-ab421a6b7146-e1683958219495.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/5bf11d8a-e085-49b3-bc32-05999fecfe7f.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/1-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/5a2b295d-889a-4ec3-a16c-ab421a6b7146-e1683958219495.jpg"
+      ]
+    },
+    {
+      "productId": 9107,
+      "productName": "PVM 375AT",
+      "slug": "pvm-375at",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/623fc2e1-78ca-4aff-856c-03b0a75a444c-e1683958734814.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/623fc2e1-78ca-4aff-856c-03b0a75a444c-e1683958734814.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/IMG_2375-scaled.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/de81ee7d-84ee-4563-990e-581007b0a573.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/db6c2af3-12a1-41b0-ac58-9211e99e2bbb.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/237964fd-1b3b-420b-9cc2-470d8c36b8ec.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/b4f77c6d-10ea-4133-a579-9c3e1c83f19d.jpg"
+      ]
+    },
+    {
+      "productId": 9106,
+      "productName": "Honda Hs 200 COMP And New",
+      "slug": "honda-hs-200-comp-and-new",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/e8c8df91-9893-4534-8c64-953319e59da5-e1683960396889.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/e8c8df91-9893-4534-8c64-953319e59da5-e1683960396889.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/1.jpg"
+      ]
+    },
+    {
+      "productId": 9105,
+      "productName": "GE",
+      "slug": "ge",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/GE-CBF-3.5-Logic-200-2.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/GE-CBF-3.5-Logic-200-2.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/GE-CBF-3.5-Logic-200.jpg"
+      ]
+    },
+    {
+      "productId": 9104,
+      "productName": "L8-L8A",
+      "slug": "l8-l8a",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/230952c0-8bbf-44b6-9b6f-955d911f7bf7.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/230952c0-8bbf-44b6-9b6f-955d911f7bf7.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/38d3c275-6ac4-4600-9c74-07eec4570628.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/9e9b6272-17f8-47d6-8838-7483b293e371.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/f8aa5cdf-4d09-4008-bf0b-3fb1cbbdd48e.png"
+      ]
+    },
+    {
+      "productId": 9103,
+      "productName": "L8 M",
+      "slug": "l8-m",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/H9ac54c08b2934b33889f0cdf1b3873937.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/H9ac54c08b2934b33889f0cdf1b3873937.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/191e6915-09ac-43f1-9d42-c3aafc6a5766.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/9b0f78bb-95a9-4c63-b5fa-b9d6631b761d.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/fc98d2d3-1a54-4ab4-9ef8-4954a0346695.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/H85b2d8b66be942c3acbbbfd4ee8b758bg.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/Hd2f1416dbab148bc98e0ec102b6b3e11c.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/Hd6bff52e304a4ca696771bac9ae60ba1d.jpg"
+      ]
+    },
+    {
+      "productId": 9102,
+      "productName": "L8 LED",
+      "slug": "l8-led",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/Hc6187a5073d248a6ae661c697f338699y-1.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/Hc6187a5073d248a6ae661c697f338699y-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/Untitled-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/Capture-1.png"
+      ]
+    },
+    {
+      "productId": 9089,
+      "productName": "G76",
+      "slug": "g76",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/G76-1.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/G76-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/device-G76.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/4b3a8a_3b009b5c64f54ffea3e1bd2a878355b3mv2.webp",
+        "https://sonotech.pk/wp-content/uploads/2023/05/G76-Device-.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/G76-3.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/G76-2.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/2_-G76.webp",
+        "https://sonotech.pk/wp-content/uploads/2023/05/G76-Device.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/G76-Left-and-Right-.png"
+      ]
+    },
+    {
+      "productId": 9077,
+      "productName": "G71",
+      "slug": "g71",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/G71.jpeg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/G71.jpeg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/G71-2.jpeg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/G71-1.jpeg"
+      ]
+    },
+    {
+      "productId": 9076,
+      "productName": "EMP 3000",
+      "slug": "emp-3000",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/Image_EMP-3000.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/Image_EMP-3000.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/IMG_5517.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/Image_EMP-3000-PHOTO.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/Image_EMP-3000-Another-image.png"
+      ]
+    },
+    {
+      "productId": 9061,
+      "productName": "N5",
+      "slug": "n5",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/EMP-N5-p-4-copy-1.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/EMP-N5-p-4-copy-1.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/EMP-N5-p-3-copy-1.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/EMP-N5-p-2d-1.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/EMP-N5-p-2da-1.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/multiple-8-1.jpg"
+      ]
+    },
+    {
+      "productId": 9060,
+      "productName": "EMP G30",
+      "slug": "emp-g30",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/EMP-G30-1-copy-1-min-3.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/EMP-G30-1-copy-1-min-3.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/EMP-G30-2-copy-2.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/EMP-G30-4d-2.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/multiple-8.jpg"
+      ]
+    },
+    {
+      "productId": 9059,
+      "productName": "G20",
+      "slug": "g20",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/G20-2-1.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/G20-2-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/G20-1-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/G20-3-1.jpg"
+      ]
+    },
+    {
+      "productId": 9054,
+      "productName": "EMP 7",
+      "slug": "emp-7",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/EMP-7VET-4.webp",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/EMP-7VET-4.webp",
+        "https://sonotech.pk/wp-content/uploads/2023/05/body-Mark.webp",
+        "https://sonotech.pk/wp-content/uploads/2023/05/用户管理.webp"
+      ]
+    },
+    {
+      "productId": 9033,
+      "productName": "Nyro 10",
+      "slug": "nyro-10",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/Nyro-10.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/Nyro-10.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/Nyro-10-A-2-copy-1.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/Nyro-10-A-1d-1.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/multiple-7.jpg"
+      ]
+    },
+    {
+      "productId": 8978,
+      "productName": "N50",
+      "slug": "n50",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/N50.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/N50.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/1-01-copy.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/4-01d-copy.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/multiple-6.jpg"
+      ]
+    },
+    {
+      "productId": 8977,
+      "productName": "N9",
+      "slug": "n9",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/N9.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/N9.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/1-01-copy-2.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/4-01d-2.png",
+        "https://sonotech.pk/wp-content/uploads/2023/05/multiple-5.jpg"
+      ]
+    },
+    {
+      "productId": 8976,
+      "productName": "N2",
+      "slug": "n2",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/N2.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/N2.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/EMP-N2-3d.png"
+      ]
+    },
+    {
+      "productId": 8975,
+      "productName": "D8 Youkey",
+      "slug": "d8-youkey-ultrasound-machine",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/D8-Youkey.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/D8-Youkey.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/Untitled-1-g-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/Untitled-1-dd-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/multiple-3.jpg"
+      ]
+    },
+    {
+      "productId": 8974,
+      "productName": "C7 Portable Ultrasound Machine",
+      "slug": "c7-portable-ultrasound-machine-92-335-4000190",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2023/05/C7-1.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2023/05/C7-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/Untitled-1-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/multiple.jpg",
+        "https://sonotech.pk/wp-content/uploads/2023/05/Apollo7-2-copy.png"
+      ]
+    },
+    {
+      "productId": 381,
+      "productName": "Medical UPS Sytem",
+      "slug": "eames-plastic-side-chair",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2021/08/15451227669786.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2021/08/15451227669786.jpg",
+        "https://sonotech.pk/wp-content/uploads/2021/08/a393a237-19ee-4b9f-817e-aaa97c998177.jpg",
+        "https://sonotech.pk/wp-content/uploads/2021/08/download-2.jpg",
+        "https://sonotech.pk/wp-content/uploads/2021/08/Eaton-9SX-UPS-AU.png"
+      ]
+    },
+    {
+      "productId": 372,
+      "productName": "Ultrasound Thermal Paper",
+      "slug": "augue-adipiscing-euismod",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2021/08/Sony-110S-1-e1683877342953.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2021/08/Sony-110S-1-e1683877342953.jpg",
+        "https://sonotech.pk/wp-content/uploads/2021/08/K65-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2021/08/K61-Mitsubishi-1.jpeg",
+        "https://sonotech.pk/wp-content/uploads/2021/08/110hg-1.jpg"
+      ]
+    },
+    {
+      "productId": 361,
+      "productName": "Ultrasound Transmission Gel",
+      "slug": "iphone-dock",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2021/08/ed0d6e19-5002-4b9c-8ea3-a0070147758d-removebg-preview.png",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2021/08/ed0d6e19-5002-4b9c-8ea3-a0070147758d-removebg-preview.png",
+        "https://sonotech.pk/wp-content/uploads/2021/08/478adff0-1dcd-45fd-aaab-18c537cb7a8c-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2021/08/f0302286-1381-4b93-9e90-1373cc52dffc-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2021/08/Gel-1.jpg"
+      ]
+    },
+    {
+      "productId": 344,
+      "productName": "EMPSUN 168 Chemistry Analyzer",
+      "slug": "wine-bottle-lantern",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2021/08/67579-9235838-copy.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2021/08/67579-9235838-copy.jpg",
+        "https://sonotech.pk/wp-content/uploads/2021/08/67579-9235838.jpg"
+      ]
+    },
+    {
+      "productId": 323,
+      "productName": "H3 Plus 3CH",
+      "slug": "panton-tunior-chair",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2021/08/H3-Plus-3CH.jpeg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2021/08/H3-Plus-3CH.jpeg"
+      ]
+    },
+    {
+      "productId": 312,
+      "productName": "H3-3Ch",
+      "slug": "smart-watches-wood-edition",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2021/08/H3-3CH.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2021/08/H3-3CH.jpg",
+        "https://sonotech.pk/wp-content/uploads/2021/08/H3-3CH-1.jpg"
+      ]
+    },
+    {
+      "productId": 300,
+      "productName": "H6-6CH",
+      "slug": "wooden-single-drawer",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2021/08/H6-6CH.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2021/08/H6-6CH.jpg"
+      ]
+    },
+    {
+      "productId": 232,
+      "productName": "Apollo 7",
+      "slug": "apollo-7-ultrasound-machine",
+      "featuredImage": "https://sonotech.pk/wp-content/uploads/2021/08/front.jpg",
+      "gallery": [
+        "https://sonotech.pk/wp-content/uploads/2021/08/front.jpg",
+        "https://sonotech.pk/wp-content/uploads/2021/08/side.jpg",
+        "https://sonotech.pk/wp-content/uploads/2021/08/Untitled-1.jpg",
+        "https://sonotech.pk/wp-content/uploads/2021/08/multiple.jpg"
+      ]
+    }
+  ]
+}

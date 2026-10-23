@@ -220,9 +220,9 @@ export const ProductDetailModal: React.FC = () => {
                 </span>
                 <div className="flex items-baseline gap-3 mt-1">
                   <span className="text-3xl font-black text-slate-900">
-                    {product.price > 0 ? `₨ ${product.price.toLocaleString()}` : 'Contact for Institutional Quotation'}
+                    Contact for price
                   </span>
-                  {product.regularPrice > product.price && product.price > 0 && (
+                  {false && product.regularPrice > product.price && product.price > 0 && (
                     <span className="text-base text-slate-400 line-through">
                       ₨ {product.regularPrice.toLocaleString()}
                     </span>

@@ -134,21 +134,16 @@ export const ContactPage: React.FC = () => {
                 </div>
               </div>
 
-              {/* WHATSAPP ACTION */}
-              <div className="p-4 bg-slate-900 text-white rounded-xl space-y-2">
-                <span className="text-xs font-bold block">Instant Orders via WhatsApp</span>
-                <p className="text-xs text-slate-300">
-                  Connect directly with our sales team for instant price quotations, probe stock check, and delivery dispatch.
-                </p>
-                <a
-                  href="https://wa.me/923214500997?text=Hello%20Medas%20Medical%20Supplier,%20I%20want%20to%20order%20medical%20equipment."
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="w-full bg-blue-600 hover:bg-blue-500 text-white font-bold py-2.5 px-3 rounded-lg text-xs flex items-center justify-center gap-2 transition-colors uppercase tracking-wider"
-                >
-                  <MessageCircle className="w-4 h-4" />
-                  <span>Chat on WhatsApp (+92 321 4500997)</span>
-                </a>
+
+              {/* SOCIAL MEDIA PLATFORMS */}
+              <div className="pt-2">
+                <h4 className="text-xs font-extrabold uppercase tracking-wider text-slate-900 mb-3">Social Media Platforms</h4>
+                <div className="flex flex-wrap items-center gap-3">
+                  <a aria-label="Facebook" title="Facebook" href="https://www.facebook.com/share/1GrGPciXBH/" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-[#1877F2] text-white flex items-center justify-center text-3xl font-bold hover:scale-105 transition-transform">f</a>
+                  <a aria-label="YouTube" title="YouTube" href="https://youtube.com/@medasmedicalsuppliers?si=h1VozAACJMvLWQwd" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-[#FF0000] text-white flex items-center justify-center hover:scale-105 transition-transform"><svg viewBox="0 0 24 24" className="w-7 h-7" fill="currentColor"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8ZM9.6 15.6V8.4l6.2 3.6-6.2 3.6Z"/></svg></a>
+                  <a aria-label="TikTok" title="TikTok" href="https://www.tiktok.com/@medasmedicalsuppliers?_r=1&_t=ZS-9Ai0NwOyRIV" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-black text-white flex items-center justify-center hover:scale-105 transition-transform"><svg viewBox="0 0 24 24" className="w-7 h-7" fill="currentColor"><path d="M19.6 7.1a6.8 6.8 0 0 1-4.2-1.4v9.1a6.7 6.7 0 1 1-5.8-6.6v3.7a3 3 0 1 0 2.1 2.9V0h3.7c.2 2.2 1.7 4 4.2 4.4v2.7Z"/></svg></a>
+                  <a aria-label="WhatsApp" title="WhatsApp" href="https://wa.me/923214500997" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-[#25D366] text-white flex items-center justify-center hover:scale-105 transition-transform"><svg viewBox="0 0 24 24" className="w-7 h-7" fill="currentColor"><path d="M20.5 3.5A11.8 11.8 0 0 0 2 17.7L.5 23.5l6-1.6A11.8 11.8 0 0 0 20.5 3.5ZM12 21a9.8 9.8 0 0 1-5-1.4l-.4-.2-3.5.9.9-3.4-.2-.4A9.8 9.8 0 1 1 12 21Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1s-.5-.2-.7.2-.8 1-1 1.2-.4.2-.7 0a8 8 0 0 1-2.4-1.5 9 9 0 0 1-1.7-2.1c-.2-.3 0-.5.2-.7l.5-.6.2-.5-.1-.5-.9-2.1c-.2-.5-.5-.4-.7-.4h-.6c-.2 0-.5.1-.8.4s-1.1 1.1-1.1 2.6 1.1 3 1.3 3.2a11.5 11.5 0 0 0 4.4 3.9c.6.3 1.1.5 1.5.6.6.2 1.2.2 1.6.1.5-.1 1.8-.7 2.1-1.4s.3-1.3.2-1.4-.2-.2-.5-.4Z"/></svg></a>
+                </div>
               </div>
             </div>
 
