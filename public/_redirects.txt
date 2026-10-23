@@ -1,6 +1,7 @@
-# Static XML sitemap & robots for Google crawler
+
+# Static XML sitemap and robots file
 /sitemap.xml    /sitemap.xml    200
 /robots.txt     /robots.txt     200
 
-# Netlify Single Page Application (SPA) fallback
+# Netlify Single Page Application fallback
 /*              /index.html     200

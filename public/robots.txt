@@ -1,5 +1,5 @@
+
 User-agent: *
 Allow: /
 
-# Sitemaps
-Sitemap: https://sonotech.pk/sitemap.xml
+Sitemap: https://medas.pk/sitemap.xml
