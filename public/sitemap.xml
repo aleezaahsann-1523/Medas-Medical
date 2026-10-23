@@ -1,40 +1,6 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-
-  <!-- Main Pages -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://medas.pk/</loc>
   </url>
-
-  <url>
-    <loc>https://medas.pk/shop</loc>
-  </url>
-
-  <url>
-    <loc>https://medas.pk/about</loc>
-  </url>
-
-  <url>
-    <loc>https://medas.pk/contact</loc>
-  </url>
-
-  <!-- Category example: keep only if this route exists -->
-  <url>
-    <loc>https://medas.pk/shop?category=ultrasound-scanners</loc>
-  </url>
-
-  <!-- Product example: replace with an actual Medas product URL -->
-  <!--
-  <url>
-    <loc>https://medas.pk/product/actual-product-slug</loc>
-    <image:image>
-      <image:loc>https://medas.pk/actual-product-image.jpg</image:loc>
-      <image:title>Actual Product Name</image:title>
-    </image:image>
-  </url>
-  -->
-
 </urlset>
