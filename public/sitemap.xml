@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- 1. Main Pages -->
+  <url>
+    <loc>https://sonotech.pk/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sonotech.pk/shop</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sonotech.pk/about</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sonotech.pk/contact</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 2. Categories (48 categories) -->
+  <url>
+    <loc>https://sonotech.pk/shop?category=ultrasound-scanners</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 3. All 156 Products (With High-Resolution Image Sitemap for Google) -->
+  <url>
+    <loc>https://sonotech.pk/product/volta-notepad-345</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://sonotech.pk/images/categories/Vn2.jpeg</image:loc>
+      <image:title>VOLTA NOTEPAD</image:title>
+    </image:image>
+  </url>
+  <!-- ... Baqi tamam products ... -->
+</urlset>
